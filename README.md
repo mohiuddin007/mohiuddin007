@@ -28,7 +28,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevelopermohiuddin&count_private=true)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevelopermohiuddin&card_width=550)](https://github.com/webdevelopermohiuddin/webdevelopermohiuddin) 
+<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevelopermohiuddin&card_width=550)](https://github.com/webdevelopermohiuddin/webdevelopermohiuddin)  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevelopermohiuddin&layout=compact)](https://github.com/webdevelopermohiuddin/github-readme-stats)
 
 <br/>
 <br/>
