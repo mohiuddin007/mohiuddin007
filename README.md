@@ -26,11 +26,13 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
  -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevelopermohiuddin&layout=compact)](https://github.com/webdevelopermohiuddin/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdevelopermohiuddin&count_private=true)
 
 <!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevelopermohiuddin&card_width=550)](https://github.com/webdevelopermohiuddin/webdevelopermohiuddin)  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevelopermohiuddin&layout=compact)](https://github.com/webdevelopermohiuddin/github-readme-stats)
 
 <br/>
 <br/>
