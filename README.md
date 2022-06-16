@@ -6,6 +6,10 @@
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love to travel new place.
 
+Want to know more about me? 
+- [Check out my portfolio.](https://mohiuddin-mazumder.web.app/) 
+- [My blog](https://mohiuddinmazumder94.medium.com/)
+
 <br/>
 
 📫 &nbsp; How to reach me:
@@ -15,17 +19,12 @@
 <a href="mailto:mohiuddinmazumder94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <br/>
-Want to know more about me? 
-[Check out my portfolio.](https://mohiuddin-mazumder.web.app/), 
-[My blog](https://mohiuddinmazumder94.medium.com/)
 
-<br/>
-
-![profile count](https://komarev.com/ghpvc/?username=mohiuddin007&color=red)&nbsp;
+<!-- ![profile count](https://komarev.com/ghpvc/?username=mohiuddin007&color=red)&nbsp;
 [![GitHub MohiuddinMazumder](https://img.shields.io/github/followers/mohiuddin007?label=follow&style=social)](https://github.com/mohiuddin007)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<br/>
+<br/> -->
 
 **Languages and Tools:**
 
