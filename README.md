@@ -4,11 +4,23 @@
 - 🌱 I’m currently learning everything 😁.
 - 👯 I’m looking to collaborate on javascript.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohiuddin-mazumder-2385961b1/), 
-                       [Facebook](https://www.facebook.com/profile.php?id=100008983153416), 
-                       [Medium](https://mohiuddinmazumder94.medium.com/)
 - ⚡ Fun fact: I love to travel new place.
 
+<br/>
+### 📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/mohiuddin-mazumder-2385961b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/MohiuddinMazum1"><img alt="LinkedIn" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
+<a href="mailto:mohiuddinmazumder94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.instagram.com/mazumder.mohiuddin/"><img src="https://img.shields.io/badge/-@Mohiuddin-Mazumder_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+<br/>
+Want to know more about me? [Check out my portfolio.](https://mohiuddin-mazumder.web.app/), [My blog](https://mohiuddinmazumder94.medium.com/)
+
+<br/>
+![profile count](https://komarev.com/ghpvc/?username=mohiuddin007&color=red)&nbsp;
+[![GitHub ShrikantaMazumder](https://img.shields.io/github/followers/mohiuddin007?label=follow&style=social)](https://github.com/mohiuddin007)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 <br/>
 
 **Languages and Tools:**
