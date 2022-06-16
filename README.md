@@ -25,13 +25,12 @@
 <code><img height="20" src="https://avatars.githubusercontent.com/u/7892489?s=48&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin007&layout=compact)](https://github.com/mohiuddin007/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin007&layout=compact)](https://github.com/mohiuddin007/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohiuddin007&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohiuddin007)](https://github.com/mohiuddin007/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohiuddin007&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohiuddin007&count_private=true) -->
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin007&card_width=550)](https://github.com/mohiuddin007/mohiuddin007) 
+<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin007&card_width=550)](https://github.com/mohiuddin007/mohiuddin007)  -->
 
 
 <br/>
