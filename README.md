@@ -1,10 +1,10 @@
 ### Hi there, I'am [Mohiuddin Mazumder](https://mohiuddin-mazumder.web.app/) 👋 
 
-- 🔭 I’m currently working on [Softify Digital](https://www.softifydigital.com/)
+- 🔭 I’m currently working on [Shopkichu commerce cloud](https://dokandao.com/)
 - 🌱 I’m currently learning everything 😁.
 - 👯 I’m looking to collaborate on javascript.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I love to travel new place.
+- ⚡ Fun fact: I love to travel to new places.
 
 Want to know more about me? 
 - [Check out my portfolio.](https://mohiuddin-mazumder.web.app/) 
