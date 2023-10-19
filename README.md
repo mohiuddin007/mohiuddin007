@@ -1,6 +1,6 @@
 ### Hi there, I'am [Mohiuddin Mazumder](https://mohiuddin-mazumder.web.app/) 👋 
 
-- 🔭 I’m currently working on [Shopkichu commerce cloud](https://dokandao.com/)
+- 🔭 I’m currently working on [Shopkichu commerce cloud]
 - 🌱 I’m currently learning everything 😁.
 - 👯 I’m looking to collaborate on javascript.
 - 💬 Ask me about anything.
