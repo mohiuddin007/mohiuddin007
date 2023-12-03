@@ -1,8 +1,8 @@
 ### Hi there, I'am [Mohiuddin Mazumder](https://mohiuddin-mazumder.web.app/) 👋 
 
 - 🔭 I’m currently working on [Shopkichu commerce cloud]
-- 🌱 I’m currently learning everything 😁.
-- 👯 I’m looking to collaborate on javascript.
+- 🌱 I’m currently learning about the backend.
+- 👯 I’m looking to collaborate on javascript, Node.js.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love to travel to new places.
 
