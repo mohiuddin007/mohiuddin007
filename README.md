@@ -9,13 +9,13 @@ I am a Full-Stack Developer with expertise in building scalable web applications
 🔗 Connect with Me:  
 <a href="https://www.linkedin.com/in/mohiuddin-mazumder-2385961b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>   <a href="https://twitter.com/MohiuddinMazum1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"/></a>   <a href="mailto:mohiuddinmazumder94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>  
 
-🌍 Explore More </br> </br>
+🌍 Explore More </br>
 &nbsp; &nbsp; &nbsp; 📜 [Portfolio.](https://mohiuddin-mazumder.web.app/) </br>
 &nbsp; &nbsp; &nbsp; 📝 [Blog](https://mohiuddinmazumder94.medium.com/)
 
 ⚡ Tech Stack </br> 
-&nbsp; &nbsp; &nbsp;🔹 Languages & Frameworks </br>
-&nbsp; &nbsp; &nbsp; &nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
+🔹 Languages & Frameworks </br>
+&nbsp; &nbsp; &nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
 
 🔹 Databases & Cloud </br>
 &nbsp; &nbsp; &nbsp; <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
