@@ -7,7 +7,7 @@ I am a Full-Stack Developer with expertise in building scalable web applications
 💡 Ask me about: API development, and frontend architecture. </br>
 ✈️ Fun fact: I love traveling and exploring new cultures! </br> </br>
 🔗 Connect with Me:  
-&nbsp; &nbsp; <a href="https://www.linkedin.com/in/mohiuddin-mazumder-2385961b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>   <a href="https://twitter.com/MohiuddinMazum1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"/></a>   <a href="mailto:mohiuddinmazumder94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/mohiuddin-mazumder-2385961b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>   <a href="https://twitter.com/MohiuddinMazum1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"/></a>   <a href="mailto:mohiuddinmazumder94@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>  
 
 🌍 Explore More </br> </br>
 &nbsp; &nbsp; &nbsp; 📜 [Portfolio.](https://mohiuddin-mazumder.web.app/) </br>
